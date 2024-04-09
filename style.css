@@ -1,0 +1,67 @@
+
+h1{ letter-spacing: 10px;
+	font-family: helvetica;
+	font-size: 10px;
+	text-align: center;
+	font-weight: lighter;
+
+
+	}
+
+
+h2 {
+  color: white;
+	font-size: 20px;
+	font-family: Helvetica;
+	text-align: center;
+}
+
+
+h3 { 
+    text-align: center;
+}
+
+
+#head {
+    border-color: white;
+    border-width: 30px;
+    border-style: solid	;
+    margin: 50px;
+    padding: 60px;
+    box-shadow: 0px 10px 30px;
+
+  }
+
+
+
+
+
+
+
+ 
+
+h4{ font-family: helvetica;
+	text-align: center;
+
+}
+
+
+#movie{border-radius: 50%;}
+#running{border-radius: 50%;}
+#gymnastics{border-radius: 50%;}
+#formula{border-radius: 50%;}
+#show{border-radius: 50%;}
+
+p { font-family: helvetica;
+text-align: center;}
+
+
+
+
+
+
+#profil{border-radius: 50%;
+	display: block;
+	margin: auto;
+
+	
